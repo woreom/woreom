@@ -1,7 +1,6 @@
 # 👋 Hello, World! I'm Mohammad Rostami (aka Woreom)
 
-Welcome to my GitHub profile! 🚀 I'm a **PHD Candidate**, **engineer**, and **AI enthusiast**, exploring everything from **machine learning** to **web development**, focusing on cutting-edge areas like **wireless communications**, and **meta-learning**. When I'm not coding or teaching, you can find me conducting workshops, grading lab reports, or pushing the boundaries of innovative technologies and playing Fortnite ![Fortnite Llama](https://makerworld.bblmw.com/makerworld/model/DSM00000000493988/design/2024-06-12_d15f8e7cea629.png?x-oss-process=image/resize,w_400/format,webp)
-.
+Welcome to my GitHub profile! 🚀 I'm a **PHD Candidate**, **engineer**, and **AI enthusiast**, exploring everything from **machine learning** to **web development**, focusing on cutting-edge areas like **wireless communications**, and **meta-learning**. When I'm not coding or teaching, you can find me conducting workshops, grading lab reports, or pushing the boundaries of innovative technologies and playing Fortnite <img src="[https://example.com/fortnite-llama.png](https://makerworld.bblmw.com/makerworld/model/DSM00000000493988/design/2024-06-12_d15f8e7cea629.png?x-oss-process=image/resize,w_400/format,webp)" alt="Fortnite Llama" width="10">.
 
 ---
 
