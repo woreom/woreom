@@ -82,9 +82,6 @@ I'm a polyglot coder and tech enthusiast who loves tinkering with:
 - **🎨 Creative Coder**: I enjoy blending tech with visuals and solving real-world challenges.
 - **🐧 WSL Enthusiast**: I can't get enough of the power and versatility of **Windows Subsystem for Linux**.
 
-
-[![](https://visitcount.itsvg.in/api?id=woreom&icon=0&color=9)](https://visitcount.itsvg.in)
-
 ---
 
 > **"The future belongs to those who believe in the beauty of their dreams."** - Eleanor Roosevelt
