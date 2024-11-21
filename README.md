@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Mohammad Rostami (aka Woreom)
 
-Welcome to my GitHub profile! 🚀 I'm a **PHD Candidate**, **engineer**, and **AI enthusiast**, exploring everything from **machine learning** to **web development**, focusing on cutting-edge areas like **wireless communications**, and **meta-learning**. When I'm not coding or teaching, you can find me conducting workshops, grading lab reports, or pushing the boundaries of innovative technologies and playing Fortnite <img src="[https://example.com/fortnite-llama.png](https://makerworld.bblmw.com/makerworld/model/DSM00000000493988/design/2024-06-12_d15f8e7cea629.png?x-oss-process=image/resize,w_400/format,webp)" alt="Fortnite Llama" width="10">.
+Welcome to my GitHub profile! 🚀 I'm a **PHD Candidate**, **engineer**, and **AI enthusiast**, exploring everything from **machine learning** to **web development**, focusing on cutting-edge areas like **wireless communications**, and **meta-learning**. When I'm not coding or teaching, you can find me conducting workshops, grading lab reports, or pushing the boundaries of innovative technologies and playing Fortnite <img src="https://makerworld.bblmw.com/makerworld/model/DSM00000000493988/design/2024-06-12_d15f8e7cea629.png?x-oss-process=image/resize,w_400/format,webp" alt="Fortnite Llama" width="17">.
 
 ---
 
@@ -63,8 +63,7 @@ I'm a polyglot coder and tech enthusiast who loves tinkering with:
 ---
 
 ## 🚧 Current Projects:
-- **🌀 Digital Twin**: Transforming real-world environments into interactive digital models.
-- **🎥 AI Car Navigation**: Innovating solutions for connected and autonomous vehicles.
+- **📡 Wireless Communications and Meta-Learning**: Exploring advanced techniques for enhancing connectivity and performance using meta-learning approaches.
 - **📖 Workshops**: Hosting "Mastering LaTeX" workshops to demystify scientific writing for beginners.
 
 ---
@@ -84,4 +83,13 @@ I'm a polyglot coder and tech enthusiast who loves tinkering with:
 
 ---
 
-> **"The future belongs to those who believe in the beauty of their dreams."** - Eleanor Roosevelt
+<p align="center">
+  <img src="https://i.pinimg.com/736x/91/96/f4/9196f4c53317326a99e2947c40e1d5bf.jpg" width="200">
+</p>
+
+> **"It's no use going back to yesterday, because I was a different person then."**  
+> – *Alice in Wonderland, Lewis Carroll*
+
+<p align="center">
+  🌟 Embrace curiosity and keep moving forward! 🌟
+</p>
